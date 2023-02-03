@@ -160,6 +160,7 @@
     "disablePopularQueries": false,
     "verticalPromptsOnEmpty": false,
     "popularQueriesBlacklistedTerms": [],
+    "popularQueriesBlacklistedRegex": [],
     "universalPrompts": [
       "Locations near me",
       "FAQs",
